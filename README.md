@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pblagodatskiy?theme=light&font=Baloo%20Da%202)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pblagodatskiy?theme=light&font=Baloo%20Da%202&ext=heatmap)
 
 <!--
 **pblagodatskiy/pblagodatskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
