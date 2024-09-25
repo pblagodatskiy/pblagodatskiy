@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-###тест
-[x]первый пункт
-[] второй
-**жирный**
-*курсивный*
-~~зачеркнутый~~
-[stepik](https://stepik.org/lesson/1066376/step/2?unit=1076104 "онлайн платформа")
+<div id="header" align=" left">
+  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b7611caybtqf4zg0nu78lsjcft0pa7uu62sp3m0c38jfn&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **pblagodatskiy/pblagodatskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
