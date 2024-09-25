@@ -6,7 +6,7 @@
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
 
-[![pblagodatskiy LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pblagodatskiy&theme=dark)](https://github.com/pblagodatskiy/leetcode-stats)
+[![pblagodatskiy LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pblagodatskiy_leetcode&theme=dark)](https://github.com/pblagodatskiy/leetcode-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
