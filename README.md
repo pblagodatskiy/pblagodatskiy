@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+###тест
+[x]первый пункт
+[] второй
+**жирный**
+*курсивный*
+~~зачеркнутый~~
+[stepik](https://stepik.org/lesson/1066376/step/2?unit=1076104 "онлайн платформа")
+
 <!--
 **pblagodatskiy/pblagodatskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
