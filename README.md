@@ -6,11 +6,12 @@
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
 
-[![pblagodatskiy LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pblagodatskiy_leetcode&theme=dark)](https://github.com/pblagodatskiy/leetcode-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pblagodatskiy_leetcode)](https://github.com/pblagodatskiy_leetcode/leetcode-stats)
 
 <!--
 **pblagodatskiy/pblagodatskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
