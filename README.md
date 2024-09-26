@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+Pasha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+name+is+Pasha)](https://git.io/typing-svg)
 
 <div id="header" align=" left">
   <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b7611caybtqf4zg0nu78lsjcft0pa7uu62sp3m0c38jfn&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
