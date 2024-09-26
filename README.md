@@ -1,5 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=070A24&lines=My+name+is+Pasha)](https://git.io/typing-svg)
 
+### Урок 3. Материалы
+* ~~Линтеры (скинуть материалы) и flake8~~ - Прочитал и установил flake8 на pycharm 
+* ~~потренироваться с hints doc print (my_func. ___doc___), help(print)~~, только в первой строке в функции можно писать доку по фоункции
+* ~~list / set / dict comprehension (c if, c if-else)~~ порешал задачки, в целом понял как формируется этот список
+* ~~zip map filter~~ тут пройдено, но для закрепления нужно еще порешать задачи
+* ~~lambda~~  lambda x: x>10 тут тоже нужно будет повторить
+* inplace операции
+* ~~генератор~~ + итератор + декоратор
+* ~~оформить README на гитхабе (скину материалы).~~ Начал оформлять. Попробовал подобавлять разные виджеты, прошел курс по разметке markdown
+* (*) классы (скинуть материлы)
+* ~~pep8 прочитать про стандарт~~
+* ~~Порешал задачи на leetcode (не сложные)~~
+
 <!--
 <div id="header" align=" left">
   <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b7611caybtqf4zg0nu78lsjcft0pa7uu62sp3m0c38jfn&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
