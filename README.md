@@ -36,6 +36,10 @@
 
 9. После обновления 2 модуля у меня запускается команда install и я довольной потратив полдня на это ухожу спать)
 
+Ссылка раз https://bobbyhadz.com/blog/anaconda-installed-but-cannot-launch-navigator
+Ссылка два https://stackoverflow.com/questions/78163280/no-module-named-urllib3-packages-six-moves
+Ссылка три на прогу https://www.revouninstaller.com/
+
 <!--
 <div id="header" align=" left">
   <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b7611caybtqf4zg0nu78lsjcft0pa7uu62sp3m0c38jfn&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
