@@ -13,6 +13,29 @@
 * ~~pep8 прочитать про стандарт~~
 * ~~Порешал задачи на leetcode (не сложные)~~
 
+# УРААААА, Заработал jupyter!!!!!
+
+1. Как выяснилось, после установки модулей перестал совсем работать jupiter
+2. Пробовал удалять
+3. В какой-то момент удалил криво и остались файлы, а удаление стандартное уже не работало, пришлось через сторонние программы удалять.
+4. После повторно устанавливал, но точно также ничего не работало
+5. Нашел следующее решение. В cmd ``pip install --upgrade pywin32==228``
+6. После нашел командую строку Anaconda Promt
+7. В командной строке пытаюсь установить ``conda install anaconda-navigator``. Опять не работает
+8. После нашел, где предлагают в поочередном порядке обновить модули
+
+``pip install requests --upgrade``
+
+``pip install urllib3 --upgrade``
+
+``pip install boto3 --upgrade``
+
+``pip install django-storages --upgrade``
+
+``pip install django --upgrade``
+
+9. После обновления 2 модуля у меня запускается команда install и я довольной потратив полдня на это ухожу спать)
+
 <!--
 <div id="header" align=" left">
   <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b7611caybtqf4zg0nu78lsjcft0pa7uu62sp3m0c38jfn&ep=v1_gifs_trending&rid=giphy.gif&ct=g"/>
